@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ajinkya-EC-Hiring-Task/static/css/main.5807cd4a.css",
+    "main.js": "/Ajinkya-EC-Hiring-Task/static/js/main.931a68d1.js",
+    "static/js/453.ed3810f9.chunk.js": "/Ajinkya-EC-Hiring-Task/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Ajinkya-EC-Hiring-Task/index.html",
+    "main.5807cd4a.css.map": "/Ajinkya-EC-Hiring-Task/static/css/main.5807cd4a.css.map",
+    "main.931a68d1.js.map": "/Ajinkya-EC-Hiring-Task/static/js/main.931a68d1.js.map",
+    "453.ed3810f9.chunk.js.map": "/Ajinkya-EC-Hiring-Task/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5807cd4a.css",
+    "static/js/main.931a68d1.js"
+  ]
+}
